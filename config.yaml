@@ -134,7 +134,7 @@ params:
   # CV download link
   cv_dl:
     enable: true
-    dir: /attaches/Ye_s_Resume_Chinese_Update.pdf
+    dir: /attaches/Resume_of_Zonglin_Ye.pdf
     description: Ye's CV
 
   # Box-shadow
