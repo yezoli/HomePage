@@ -135,7 +135,11 @@ params:
   cv_dl:
     enable: true
     dir: /attaches/Ye_s_Resume_Chinese_Update.pdf
-    description: Ye's CV
+    description: CV_en
+  cv_dl_zh:
+    enable: true
+    dir: /attaches/叶宗霖简历.pdf
+    description: CV_zh
 
   # Box-shadow
   # display box-shadow on page or not
